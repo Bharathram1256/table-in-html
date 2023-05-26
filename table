@@ -1,0 +1,47 @@
+<!--- creating a table using html--->
+
+<html>
+    <title>html file</title>
+    <head><center>THIS IS HEAD</center></head>
+    <body bgcolor="yellow" ><center>
+        <table border="4">
+            <tr><caption>
+                <td>SL</td>
+                <td>NAME</td>
+                <td>ROLL NUMBER</td>
+                <td>ADDRESS</td>
+            </caption></tr>
+            <tr><font color="" ></font>
+                <td>1</td>
+                <td>Ram</td>
+                <td>200123e434</td>
+                <td>8-84,Jublihills,Hyderabad</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Bharath</td>
+                <td>240934e453</td>
+                <td>9-12,Gollapudi,Vijayawada</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Hari</td>
+                <td>43209e231</td>
+                <td>7-28,GandhiNagar,Anantapur</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Bheema</td>
+                <td>53222i098</td>
+                <td>2-56,anyNagar,Amaravathi</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Ram</td>
+                <td>392043e0230</td>
+                <td>02-92,abcd,alahabad</td>
+            </tr>
+        </table>
+    </center></body>
+</html>
+
